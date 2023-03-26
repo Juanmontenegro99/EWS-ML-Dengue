@@ -1,0 +1,5 @@
+.httr-oauth
+.ipynb_checkpoints
+.Rproj.user
+*.zip
+kcore-master
